@@ -2,5 +2,4 @@ saved_models/
 sarves/
 logs/
 __pycache__/
-data/
-.env
+
